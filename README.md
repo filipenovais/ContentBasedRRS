@@ -16,4 +16,5 @@ Personal Project
 ![alt-text](https://github.com/filipenovais/ContentBasedRRS/blob/master/cos_calculation.png)
 
 Credit to: https://github.com/codeheroku/Introduction-to-Machine-Learning
+
 Database from: https://github.com/cweber/cookbook/blob/master/recipes.csv
