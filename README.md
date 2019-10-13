@@ -9,4 +9,6 @@ Personal Project
 
 ![alt-text](https://github.com/filipenovais/ContentBasedRRS/blob/master/cossimilarity_plot.png) 
 
+ - Cosine Calculation between two Vectors (A and B):
+ 
 ![alt-text](https://github.com/filipenovais/ContentBasedRRS/blob/master/cos_calculation.png)
