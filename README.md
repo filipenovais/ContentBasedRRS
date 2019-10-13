@@ -8,4 +8,4 @@ Personal Project
 - Description: The system suggests similar recipes based on a recipe given by the user. This project uses the ingredients as metadata and the cosine similarity to calculate a numeric quantity that denotes the similarity between two recipes.
 
 
-![alt text](https://github.com/filipenovais/)
+![alt text](https://github.com/filipenovais/ContentBasedRRS/blob/master/CosineSimilarity.png)
