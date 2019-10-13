@@ -9,4 +9,5 @@ Personal Project
 
 ![alt-text-1](https://github.com/filipenovais/ContentBasedRRS/blob/master/cossimilarity_plot.png)
 
-![alt-text](https://github.com/filipenovais/ContentBasedRRS/blob/master/cos_calculation.png | width=100)
+
+![alt-text-1](https://github.com/filipenovais/ContentBasedRRS/blob/master/cossimilarity_plot.png | width=100)
